@@ -41,5 +41,8 @@ https://knowyourmeme.com/memes/profit
 Berechne True Positive und False Positive Rate. TP (y), FP(x)
 https://de.wikipedia.org/wiki/ROC-Kurve#:~:text=Fl%C3%A4che%20unter%20der%20ROC%2DKurve,Fl%C3%A4che%20von%200%2C5%20hat.
 
+35 | Adversarial Attacks:
+https://arxiv.org/abs/1412.6572
+
 LeNet:
 https://en.wikipedia.org/wiki/LeNet

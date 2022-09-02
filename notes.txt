@@ -1,0 +1,42 @@
+AI:
+Aus den 50ern; Das Ziel war es, komplexe KI‘s zu erstellen, welche die selben Charakteristiken wie Menschen besitzen. Eine „allgemeine KI“, welche alles kann und sogar noch besser als Menschen.
+In unzähligen Rollen in Filmen z.B. C3PO, Terminator oder Ultron
+Jedoch noch nicht möglich
+ML:
+Basic Idee: Algorithmen benutzen um Daten zu verarbeiten, von ihnen zu lernen und dann eine Entscheidung zu treffen oder eine Prediciton über etwas in der Welt zu machen
+Diese Algorithmen sind unter Anderem: Decision Tree Learning, Clustering oder Bayesian Networks
+Mit keinem dieser Algorithmen konnten selbst  „einfache“ Aufgaben, wie Bildklassifikation genügend gelöst werden. 
+DL:
+Tiefe Neuronale Netze: 
+sind inspiriert von der Biologie unserer Gehirne
+Bsp: wir nehmen Bild: teilen es in  verschiedene Teile, welche in die erste Schicht des neuronalen Netzes kommen
+Die Neuronen der Schicht verarbeiten die Informationen und schicken sie dann an die nächste  Schicht usw..
+Bis der finale Output produziert ist.  Am Ende erhalten wir einen „Wahrscheinlichkeitsvektor“ (für Klassifikation) welcher den Versuch des  Neuronalen Netzes darstellt unser Bild zu klassifizieren
+
+6 | Ich beschäftige mich hauptsächlich mit supervised Learning. -> Trainingsbeispiele sind vorhanden und gelabeled, das heißt wir kennen das gewünschte Ziel. Clustering wäre bspw. unsupervised
+Der Vortrag heute bezieht sich auf die Klassifikation von Bildern
+
+17 | Activation Function
+https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/
+
+19 | Aufbau neuronales Netz:
+https://www.youtube.com/watch?v=aircAruvnKk
+
+22 | Loss Function:
+https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/
+
+24 | Backpropagation:
+https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=7s
+
+27 | Learning rate:
+https://machinelearningmastery.com/understand-the-dynamics-of-learning-rate-on-deep-learning-neural-networks/
+
+31 | Für alle, die das Profit Meme nicht kennen:
+https://knowyourmeme.com/memes/profit
+
+34 | Die ROC-Kurve stellt visuell die Abhängigkeit der Effizienz mit der Fehlerrate für verschiedene Parameterwerte dar. 
+Berechne True Positive und False Positive Rate. TP (y), FP(x)
+https://de.wikipedia.org/wiki/ROC-Kurve#:~:text=Fl%C3%A4che%20unter%20der%20ROC%2DKurve,Fl%C3%A4che%20von%200%2C5%20hat.
+
+LeNet:
+https://en.wikipedia.org/wiki/LeNet
